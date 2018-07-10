@@ -35,6 +35,25 @@ def how_many_steps
   end
 end
 def break_dance
+  puts "Right foot back"
+  sleep(0.5)
+  puts "Left foot back"
+sleep(0.5)
+puts "Right foot back"
+sleep(0.5)
+ puts "Right foot steps right and back"
+ sleep(0.5)
+puts "Left foot crosses over right"
+sleep(0.5)
+puts "Right foot steps right" 
+sleep(0.5)
+puts "turn"
+sleep(1)
+if steps=6
+  break
+end 
+end
+  
   
   
   # Write a loop that outputs "Right foot back", "Left foot back",
