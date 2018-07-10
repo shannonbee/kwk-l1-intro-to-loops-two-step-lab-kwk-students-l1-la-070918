@@ -34,7 +34,8 @@ def how_many_steps
     sleep (.5)
   end
 end
-
+def break_dance
+  
   
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
